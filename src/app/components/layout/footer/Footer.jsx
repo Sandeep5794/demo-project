@@ -5,7 +5,7 @@ const Footer = ()=>{
         <>
             <footer className="py-3 lg:py-5 bg-black ">
                 <Container>
-                    <div className="footer-inner text-center text-white">
+                    <div className="footer-inner text-center text-white lg:text-sm text-xs">
                         <p>Copyright all right resevered.</p>
                     </div>
                 </Container>
